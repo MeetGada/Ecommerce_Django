@@ -1,2 +1,9 @@
 static/admin/
 static/rest_framework/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode
